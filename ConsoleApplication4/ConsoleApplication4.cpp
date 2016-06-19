@@ -7,7 +7,7 @@
 int main()
 {
 	std::cout << "checkedout";
-	int *t = new int()
+	
     return 0;
 }
 
